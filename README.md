@@ -26,5 +26,8 @@ Why command-line (No IDE)?
 4. Open Source
 5. Well documented
 
+Install GCC Toolchain:
+1. Download GCC Open source from TI website
+   -https://www.ti.com/tool/MSP430-GCC-OPENSOURCE#downloads
 
   
