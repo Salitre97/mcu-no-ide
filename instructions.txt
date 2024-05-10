@@ -1,0 +1,10 @@
+# May 09 2024
+# csalitre
+# This serves as a step-by-step tutorial to myself to install gcc toolchain and create my own IDE, in order to not depend on proprietary IDEs that maybe garbage....CC Studio
+
+Step 1: 
+ - Navigate to MSP430-GCC-OPENSOURCE#downloads to download the gcc toolchain (pop!_OS at the time of writing this tutorial)
+Step 2:
+ - Unzip
+  - cd bin 
+  - ./msp430-elf-gcc
